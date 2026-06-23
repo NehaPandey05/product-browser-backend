@@ -1,7 +1,12 @@
 # Product Browser Backend 🚀
 
 A scalable backend service for browsing and managing a large product dataset.  
-The project focuses on handling high-volume data efficiently with optimized APIs, filtering, and cursor-based pagination.
+The project focuses on efficiently handling high-volume data using optimized APIs, filtering, and cursor-based pagination.
+
+## 🌐 Live API
+
+Backend is deployed on Render:
+https://product-browser-backend-yfmb.onrender.com
 
 ## ✨ Features
 
