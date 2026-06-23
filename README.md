@@ -5,7 +5,7 @@ The project focuses on handling high-volume data efficiently with optimized APIs
 
 ## ✨ Features
 
-- RESTful API for product management
+- RESTful API for product browsing.
 - Handles 200,000+ product records
 - Efficient product listing
 - Cursor-based pagination for better performance on large datasets
